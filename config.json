@@ -1,10 +1,10 @@
 {
-    "DiscordServerId": "DISCORD_GUILD_ID(REQUIRED)",
-    "token": "DISCORD_API_BOT_TOKEN(REQUIRED)",
-    "twitch_clientID": "TWITCH_API_CLIENT_ID(REQUIRED)",
-    "twitch_secret": "TWITCH_API_SECRET(REQUIRED)",
+    "DiscordServerId": "1482934461766303867",
+    "token": "MTQ4Mjk0NTU1NzE0NzQxODgzNw.GDmKZI.71ZkfcDGJ8fhGwZ9biukV5X2q52-xmFbWZAEC8",
+    "twitch_clientID": "gorrtq22ppldo1h7rf67bf6jvl6fir",
+    "twitch_secret": "36aoggjgudn9vzqb54n4qh6nv8a9hd",
     "cron": "*/10 * * * *",
-    "channelID": "CHANNELD_ID(REQUIRED)",
+    "channelID": "1482937417106325665",
     "roleID": "ROLE_ID(NOT REQUIRED)",
     "channels": [
         {
